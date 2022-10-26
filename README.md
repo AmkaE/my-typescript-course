@@ -1,3 +1,3 @@
 # my-typescript-course
 
-My typescript course from udemy with Colt Steele.
+My [typescript course](https://www.udemy.com/course/learn-typescript/) from udemy with Colt Steele.
